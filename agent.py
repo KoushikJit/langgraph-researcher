@@ -1,6 +1,6 @@
 from typing import Annotated, Sequence, TypedDict
 from langchain_core.messages import BaseMessage
-from langgraph.graph import add_messages, StateGraph, END
+from langgraph.graph import add_messages, StateGraph, START
 
 
 class GraphState(TypedDict):
