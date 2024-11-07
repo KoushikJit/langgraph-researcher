@@ -1,1 +1,6 @@
 langgraph
+langchain-openai
+langchain
+duckduckgo-search
+langchain-community
+langchain-experimental
